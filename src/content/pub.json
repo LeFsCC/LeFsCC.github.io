@@ -25,7 +25,7 @@
         },
         "note": "",
         "resources": {
-            "pdf": "./files/PDF/saiyan_nsdi",
+            "pdf": "./files/PDF/saiyan_nsdi.pdf",
             "slides": null,
             "code": "https://github.com/LeFsCC/Saiyan",
             "demo": null
@@ -42,7 +42,7 @@
         },
         "note": "",
         "resources": {
-            "pdf": "./files/PDF/RF-Transformer.pdf",
+            "pdf": "./files/PDF/RF_Transformer.pdf",
             "slides": null,
             "code": "https://github.com/LeFsCC/RF-Transformer",
             "demo": null
