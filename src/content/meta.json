@@ -1,0 +1,10 @@
+{
+    "name": "Jiacheng Zhang (张家成)",
+    "description": "<b>Biography:</b> I'm a master student at Tsinghua University, and now a member of [The System and Ubiquitous Networking Group (SUN)](http://tns.thss.tsinghua.edu.cn/sun/) led by [Prof. Yuan He](http://www.greenorbs.org/people/heyuan). <br><b>Interests:</b> Wireless Sensing &nbsp; RFID localization &nbsp; LoRa localization and commnication.<br><b>Contact Me:</b> <a style = \"color: black\">zhangjc21@mails.tsinghua.edu.cn;</a>",
+    "contact": {
+        "Github": {"icon": "fa fa-github", "url": "https://github.com/LeFsCC"},
+        "Google Scholar": {"icon": "ai ai-google-scholar", "url": "https://scholar.google.com/citations?user=t41EgbQAAAAJ&hl=en"},
+        "ResearchGate": {"icon": "ai ai-researchgate", "url": "https://www.researchgate.net/profile/Jiacheng-Zhang-17"},
+        "ORCID": {"icon": "ai ai-orcid", "url": "https://orcid.org/0000-0001-8034-6420"}
+    }
+}
